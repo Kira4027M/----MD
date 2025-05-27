@@ -1,7 +1,7 @@
 {
   "name": "𝐒-𝙇𝙄𝙂𝙃𝙏-MD",
   "description": "Javascript WhatsApp bot made by —͟͟͞͞𝐒𝐂𝐎𝐓𝐓 𝙇𝙄𝙂𝙃𝙏 𝙆𝙄𝙍𝘼✖",
-  "logo": "url",
+  "logo": "https://imgur.com/a/Fjq4war",
   "keywords": ["𝐒-𝙇𝙄𝙂𝙃𝙏-MD"],
   "success_url": "/",
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "url"
+      "value": "https://imgur.com/a/Fjq4war"
     },
     
      "DESCRIPTION": {
